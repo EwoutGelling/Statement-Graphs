@@ -1,0 +1,3 @@
+~id,~label,name:String
+A, Person,
+B, Car, "Toyota Camry"

@@ -1,0 +1,2 @@
+~id,~label,~from,~to,since:Int
+C,owns,A,B,1992

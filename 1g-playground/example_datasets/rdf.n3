@@ -1,0 +1,3 @@
+<http://aws.amazon.com/neptune/ogplayground/data/id/A>  <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://aws.amazon.com/neptune/ogplayground/data/label/Person> .
+<http://aws.amazon.com/neptune/ogplayground/data/id/A> <http://aws.amazon.com/neptune/ogplayground/data/propertyName/age> "25" .
+<http://aws.amazon.com/neptune/ogplayground/data/id/A> <http://aws.amazon.com/neptune/ogplayground/data/propertyName/name> "Alice" .
