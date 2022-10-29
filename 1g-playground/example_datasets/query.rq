@@ -1,0 +1,7 @@
+PREFIX pName:  <http://aws.amazon.com/neptune/ogplayground/data/propertyName/>
+PREFIX edge:  <http://aws.amazon.com/neptune/ogplayground/data/edge/>
+SELECT ?name WHERE {
+	?s pName:name "Alice" .
+	?s edge:owns ?o .
+	?o pName:name ?name .
+}
